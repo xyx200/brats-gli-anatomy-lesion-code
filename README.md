@@ -203,4 +203,4 @@ The controlled release includes the following metadata files: `participants.csv`
 
 The Synapse project landing page and Wiki are publicly viewable. The versioned label release (`syn75260521`) remains access-controlled. Access requires a registered Synapse account and approved access to the upstream BraTS 2023 data through `syn51156910`. Follow the email-based request instructions on the public Wiki; after manual approval, the maintainer grants the requester's Synapse account read and download access to `syn75260521`. The labels are released under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). This data license does not remove or replace the John Colby MIT notice for the SVID/WMH repair-label source material and does not override applicable upstream BraTS data-use terms.
 
-Downloaded label files and image-repair labels must not be shared with anyone who has not been approved for access to the derivative label resource.
+Downloaded label files must not be shared with anyone who has not been approved for access to the derivative label resource.
