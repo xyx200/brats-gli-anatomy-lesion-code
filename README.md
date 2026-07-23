@@ -193,7 +193,7 @@ The associated BraTS-GLI-Anatomy-Lesion v1.0.0 data resource is a labels-only Sy
 - Upstream BraTS access page: https://www.synapse.org/Synapse:syn51156910/wiki/627000
 - Code repository: https://github.com/xyx200/brats-gli-anatomy-lesion-code
 - Official contact: xxy200200@stu.xjtu.edu.cn
-- Until the final bibliographic citation and data-resource DOI have been verified, identify this resource as BraTS-GLI-Anatomy-Lesion v1.0.0, Synapse project `syn75210889`, release `syn75260521`. Once verified, use the confirmed citation and DOI.
+- Citation: Cite the BraTS-GLI-Anatomy-Lesion resource article using its final bibliographic citation when available. The associated data resource may additionally be cited alongside the resource article using its DOI: https://doi.org/10.7303/SYN75210889.
 
 The data package contains labels for 1,251 BraTS 2023-GLI cases, split into 394 purified cases and 857 extended cases. Its labels-only release manifest lists 1,367 NIfTI label files: 1,251 released unified segmentation labels and 116 image-repair labels. The image-repair labels are derived from the SVID/WMH label resources associated with: Multi-Disease Segmentation of Gliomas and White Matter Hyperintensities in the BraTS Data Using a 3D Convolutional Neural Network, and the source repository `johncolby/svid_paper`.
 
