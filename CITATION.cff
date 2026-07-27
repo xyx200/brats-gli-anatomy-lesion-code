@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software or the associated resource, please cite the preferred resource article."
+title: "BraTS-GLI-Anatomy-Lesion Processing Code"
+type: software
+version: "1.0.0"
+license: MIT
+authors:
+  - family-names: Xiang
+    given-names: Xingyu
+  - family-names: Hao
+    given-names: Shuang
+  - family-names: Wang
+    given-names: Fan
+  - family-names: Ma
+    given-names: Jianhua
+  - family-names: Lian
+    given-names: Chunfeng
+repository-code: "https://github.com/xyx200/brats-gli-anatomy-lesion-code"
+identifiers:
+  - type: url
+    value: "https://www.synapse.org/Synapse:syn75210889/wiki/640990"
+    description: "Associated Synapse data resource"
+preferred-citation:
+  type: article
+  title: "GLI-AL: A Multi-Modal Glioma MRI Label Resource with Unified Anatomy-Lesion Labels"
+  authors:
+    - family-names: Xiang
+      given-names: Xingyu
+    - family-names: Hao
+      given-names: Shuang
+    - family-names: Wang
+      given-names: Fan
+    - family-names: Ma
+      given-names: Jianhua
+    - family-names: Lian
+      given-names: Chunfeng
+  year: 2026
+  doi: "10.48550/arXiv.2607.22135"
+  url: "https://arxiv.org/abs/2607.22135"
