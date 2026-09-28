@@ -193,7 +193,22 @@ The associated BraTS-GLI-Anatomy-Lesion v1.0.0 data resource is a labels-only Sy
 - Upstream BraTS access page: https://www.synapse.org/Synapse:syn51156910/wiki/627000
 - Code repository: https://github.com/xyx200/brats-gli-anatomy-lesion-code
 - Official contact: xxy200200@stu.xjtu.edu.cn
-- **Citation:** Until a final peer-reviewed bibliographic citation is available, cite the current resource article preprint: Xiang, X., Hao, S., Wang, F., Ma, J., and Lian, C. (2026). *GLI-AL: A Multi-Modal Glioma MRI Label Resource with Unified Anatomy-Lesion Labels*. arXiv:2607.22135. https://doi.org/10.48550/arXiv.2607.22135. The associated data resource may additionally be cited alongside the resource article using its DOI: https://doi.org/10.7303/SYN75210889.
+- **Citation:** Cite the published resource article: Xiang, X., Hao, S., Wang, F., Ma, J., and Lian, C. (2026). *GLI-AL: A Multi-Modal Glioma MRI Label Resource with Unified Anatomy-Lesion Labels*. Machine Learning for Biomedical Imaging, 2026, 834–843. https://doi.org/10.59275/j.melba.2026-575f. The associated data resource may additionally be cited alongside the resource article using its DOI: https://doi.org/10.7303/SYN75210889.
+
+```bibtex
+@article{melba:2026:045:xiang,
+  title   = {{GLI-AL}: A Multi-Modal Glioma {MRI} Label Resource with Unified Anatomy-Lesion Labels},
+  author  = {Xiang, Xingyu and Hao, Shuang and Wang, Fan and Ma, Jianhua and Lian, Chunfeng},
+  journal = {Machine Learning for Biomedical Imaging},
+  volume  = {2026},
+  issue   = {Special Issue on MICCAI Open Data 2026},
+  year    = {2026},
+  pages   = {834--843},
+  issn    = {2766-905X},
+  doi     = {10.59275/j.melba.2026-575f},
+  url     = {https://www.melba-journal.org/papers/2026%3A045.html}
+}
+```
 
 The data package contains labels for 1,251 BraTS 2023-GLI cases, split into 394 purified cases and 857 extended cases. Its labels-only release manifest lists 1,367 NIfTI label files: 1,251 released unified segmentation labels and 116 image-repair labels. The image-repair labels are derived from the SVID/WMH label resources associated with: Multi-Disease Segmentation of Gliomas and White Matter Hyperintensities in the BraTS Data Using a 3D Convolutional Neural Network, and the source repository `johncolby/svid_paper`.
 

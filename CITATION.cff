@@ -34,6 +34,11 @@ preferred-citation:
       given-names: Jianhua
     - family-names: Lian
       given-names: Chunfeng
+  journal: "Machine Learning for Biomedical Imaging"
+  volume: "2026"
+  issue: "Special Issue on MICCAI Open Data 2026"
   year: 2026
-  doi: "10.48550/arXiv.2607.22135"
-  url: "https://arxiv.org/abs/2607.22135"
+  start: 834
+  end: 843
+  doi: "10.59275/j.melba.2026-575f"
+  url: "https://www.melba-journal.org/papers/2026%3A045.html"
